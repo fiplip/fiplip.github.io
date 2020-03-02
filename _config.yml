@@ -64,7 +64,7 @@ author:
   location: "Norrköping, Sweden"
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "far fa-envelope"
       url: "mailto:filipsilverplats@outlook.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -80,7 +80,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "far fa-envelope"
       url: "mailto:filipsilverplats@outlook.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
