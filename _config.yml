@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tilt Control
+subtitle: En blogg om mjukvaruutveckling
 email: filipsilverplats@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Skriver om mina mjukvaruprojekt och andra experiement som jag vill delge mig av.
@@ -59,7 +60,7 @@ plugins:
 author:
   name   : "Filip Silverplats"
   avatar : "/assets/images/profile_photo.jpg"
-  bio    : "Läser för närvarande till mjukvaruutvecklare inom inbäddade system. Är en teknik-nörd som vill lära sig mer om programmering!"
+  bio    : "Läser för närvarande till mjukvaruutvecklare inom inbäddade system. Är en teknik-nörd som ständigt vill lära sig mer om programmering!"
   location: "Norrköping, Sweden"
   links:
     - label: "Email"
