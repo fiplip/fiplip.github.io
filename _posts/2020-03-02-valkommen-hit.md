@@ -24,4 +24,15 @@ Då jag snart kommer att bli nyexaminerad så måste jag ju också visa att jag 
 Har ni feedback angående hemsidan eller någon annan fråga så går det bra att maila mig på [filipsilverplats@outlook.com](mailto:filipsilverplats@outlook.com).
 Känner ni till en tjänst som skulle kunna passa mig är ni också välkomna att maila mig så kan vi prata, det uppskattas!
 
+```c++
+#include <iostream>
+
+int main()
+{
+  std::cout << "Goodbye!" << std::endl;
+  
+  return 0;
+}
+```
+
 ❤
