@@ -16,9 +16,7 @@
 title: Tilt Control
 email: filipsilverplats@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Skriver om mina mjukvaruprojekt och andra experiement som jag vill delge mig av.
 twitter_username: FSilverplats
 github_username: fiplip
 minimal_mistakes_skin: dark
@@ -61,7 +59,7 @@ plugins:
 author:
   name   : "Filip Silverplats"
   avatar : "/assets/images/profile_photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Läser för närvarande till mjukvaruutvecklare inom inbäddade system. Är en teknik-nörd som vill lära sig mer om programmering!"
   location: "Norrköping, Sweden"
   links:
     - label: "Email"
