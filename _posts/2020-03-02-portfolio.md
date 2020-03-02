@@ -13,4 +13,4 @@ Här följer en kort sammanfattning av några projekt jag har jobbat med, anting
 En del når såklart inte dagens ljus men jag försöker ändå lyfta fram relevanta projekt.
 
 ## Autonom bil
-![My helpful screenshot](/assets/images/posts/portfolio/nucleo_wagon.jpg)
+![Nucleo Wagon](/assets/images/posts/portfolio/nucleo_wagon.jpg)
