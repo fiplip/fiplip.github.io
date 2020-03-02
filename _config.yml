@@ -61,9 +61,10 @@ author:
   name   : "Filip Silverplats"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "Norrköping, Sweden"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "far fa-envelope"
       url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
