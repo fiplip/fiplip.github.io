@@ -14,3 +14,5 @@ En del når såklart inte dagens ljus men jag försöker ändå lyfta fram relev
 
 ## Autonom bil
 ![Nucleo Wagon](/assets/images/posts/portfolio/nucleo_wagon.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJ5EMQD3vvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
