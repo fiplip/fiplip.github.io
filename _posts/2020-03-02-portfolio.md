@@ -20,3 +20,12 @@ Byggde ihop en självkörande bil med hjälp av en Nucleo F103RB och FreeRTOS. M
 Nedan följer ett litet filmklipp på bilen "in action"! Det är tyvär inte det bästa klippet men samtidigt det ända klippet jag har på bilen. Notera också den spännande musiken (finns mest för att dölja det oljud som motorerna gav ifrån sig).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJ5EMQD3vvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## GuardAlarm
+
+Ett projekt där jag byggde ihop och programmera ett "hemlarm" med hjälp av en Arduino Uno. Till det hade jag också ett tillhörande program (skrivet i C++) som kördes på en   Följande funktionalitet fanns med:
+
+* Stöd för flera användare med unika PIN-koder.
+* Loggning av alla händelser till en fil.
+
+*Detta inlägg uppdateras löpande
