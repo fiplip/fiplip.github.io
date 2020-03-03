@@ -28,4 +28,4 @@ Ett projekt där jag byggde ihop och programmera ett "hemlarm" med hjälp av en 
 * Stöd för flera användare med unika PIN-koder.
 * Loggning av alla händelser till en fil.
 
-*Detta inlägg uppdateras löpande
+*Detta inlägg uppdateras löpande*
