@@ -37,7 +37,7 @@ Detta är bara en översiktlig beskrivning av de funktioner som finns.
 
 Det finns många roliga projekt att prata om och jag ska försöka uppdatera det här inlägget allt eftersom. Jag hoppas du har fått en lite bättre uppfattning om vad jag har gjort och att du tycker det låter intressant!
 
-Har du några frågor så går det bra att maila mig så hoppas jag kunna svara!
+Har du några frågor så går det bra att maila mig!
 
 ❤
 
