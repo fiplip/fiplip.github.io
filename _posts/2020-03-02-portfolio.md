@@ -22,6 +22,7 @@ Nedan följer ett litet filmklipp på bilen "in action"! Det är tyvärr inte de
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJ5EMQD3vvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## GuardAlarm
+![GuardAlarm](/assets/images/posts/portfolio/guardAlarm.jpg)
 
 Ett projekt där jag konstruerade ett "hemlarm" baserat på en [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3). Till det har jag också skrivit ett tillhörande program i C++ som körs på en vanlig dator. Datorn, tillsammans med mitt program, agerar "larmcentral" och kommunicerar ständigt med Arduinon seriellt. Förutom de grundläggande funktionerna som att kunna larma av/på, utlösa larmet med mera, följer nu en punktlista på spännande funktionalitet som finns med:
 
