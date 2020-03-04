@@ -9,7 +9,7 @@ tags:
 ---
 
 Nu är det 2020 och äntligen är det dags för mig att skaffa en alldeles egen hemsida, igen!
-Efter att ha spenderat en del tid med att få till sidan som jag vill ha den (för tillfället åtminstone), så är det äntligen dags för mig att försöka göra mitt första inlägg.
+Efter att ha spenderat en del tid med att få till sidan som jag vill ha den (för tillfället åtminstone), så är det dags för mig att försöka göra mitt första inlägg.
 Jag tänker att det kan vara på sin plats att göra en liten kort introduktion om mig och varför den här sidan finns till.
 
 ### Om mig
