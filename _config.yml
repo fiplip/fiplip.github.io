@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tilt Control
-subtitle: En personlig sida om mjukvaruutveckling
+subtitle: En sida om mjukvaruutveckling
 email: filipsilverplats@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Skriver om mina mjukvaruprojekt och andra experiement som jag vill delge mig av.
