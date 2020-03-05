@@ -8,7 +8,7 @@ Det är en yrkeshögskola där utbildningen styrs av arbetsmarknadens krav så a
 
 ### Om sidan
 
-På den här sidan tänker jag samla och skriva lite kortfattat om några av dem projekt som jag har arbetat med. Det är både projekt som jag har arbetat med i samband med min utbildning och även sådant som jag har experimenterat med på fritiden.
+På den här sidan tänker jag samla och skriva kortfattat om några av dem projekt som jag har arbetat med. Det är både projekt som jag har arbetat med i samband med min utbildning och även sådant som jag har experimenterat med på fritiden.
 
 ### Kontakta mig
 
