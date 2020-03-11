@@ -12,6 +12,10 @@ tags:
 Här följer en kort sammanfattning av några projekt jag har arbetat med, antingen under utbildningen eller på fritiden.
 Jag ska försöka hålla den här listan så koncis som möjligt så att man snabbt kan få en uppfattning om vad jag har gjort.
 
+### Snabblänkar
+
+* [Autonom bil](https://fiplip.github.io/portfolio/portfolio/#autonom-bil)
+
 ## Autonom bil
 ![Nucleo Wagon](/assets/images/posts/portfolio/nucleo_wagon.jpg)
 
@@ -49,7 +53,7 @@ Sedan finns det också 2 knappar för att styra programmet. Med hjälp av knappa
 I klippet nedan kan du se spelet i rörelse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CheBJJ8W5WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--
+
 Det finns många fler roliga projekt att prata om och jag ska försöka uppdatera det här inlägget allt eftersom. Jag hoppas du har fått en lite bättre uppfattning om vad jag har gjort och att du tycker det låter intressant!
 
 Har du några frågor så går det bra att maila mig!
