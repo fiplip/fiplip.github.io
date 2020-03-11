@@ -35,7 +35,22 @@ Ett projekt där jag konstruerade ett "hemlarm" baserat på en [Arduino Uno](htt
 
 Detta är bara en översiktlig beskrivning av de funktioner som finns.
 
-Det finns många roliga projekt att prata om och jag ska försöka uppdatera det här inlägget allt eftersom. Jag hoppas du har fått en lite bättre uppfattning om vad jag har gjort och att du tycker det låter intressant!
+## ESP8266 och Snake
+![Snake på en Lolin D1 mini](/assets/images/posts/portfolio/snake.jpg)
+
+I det här projektet ville jag lära mig mer om hur det är att jobba med en display. Jag bestämde mig att för att genomföra detta genom att programmera det klassiska spelet [Snake](https://sv.wikipedia.org/wiki/Snake).
+Jag använde följande komponenter:
+
+* [Lolin D1 mini (baserad på ESP8266)](https://docs.wemos.cc/en/latest/d1/d1_mini.html)
+* TFT 1.4 Shield
+
+Sedan finns det också 2 knappar för att styra programmet. Med hjälp av knapparna styr du ormen och försöker äta så mycket frukt som möjligt för att få en så hög "highscore" som du kan. Varje gång som du äter en frukt så blir ormen längre och en ny frukt placeras ut slumpmässigt på spelplanen. Råkar du köra in i "väggen" eller i din svans så är spelet över.
+
+I klippet nedan kan du se spelet i rörelse.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CheBJJ8W5WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Det finns många fler roliga projekt att prata om och jag ska försöka uppdatera det här inlägget allt eftersom. Jag hoppas du har fått en lite bättre uppfattning om vad jag har gjort och att du tycker det låter intressant!
 
 Har du några frågor så går det bra att maila mig!
 
