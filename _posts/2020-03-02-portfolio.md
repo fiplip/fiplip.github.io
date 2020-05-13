@@ -59,7 +59,7 @@ Jag tycker att göra spel är ett väldigt roligt sätt att öva på programmeri
 </p>
 
 Banan fortsätter så länge som man lyckas hålla sig levande. Det finns en poängräknare men skulle vilja implementera en highscore-lista där man kan se alla sina poäng.
--
+___
 
 Det finns många fler roliga projekt att prata om och jag ska försöka uppdatera det här inlägget allt eftersom. Jag hoppas du har fått en lite bättre uppfattning om vad jag har gjort och att du tycker det låter intressant!
 
