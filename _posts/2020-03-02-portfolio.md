@@ -54,7 +54,7 @@ I klippet nedan kan du se spelet i rörelse.
 
 Jag tycker att göra spel är ett väldigt roligt sätt att öva på programmering. Har experimenterat lite med två olika frameworks, [SDL](https://www.libsdl.org/) och [SFML](https://www.sfml-dev.org/), som fungerar tillsammans med C++. Har också testat en färdig spelmotor där jag programmerat i [GML](https://docs.yoyogames.com/source/dadiospice/002_reference/001_gml%20language%20overview/) (GameMaker Language). Där gjorde jag en Flappy Bird klon. All grafik är från originalspelet men källkoden är helt min egna.
 
-![Flappy Bird klon](/assets/images/posts/portfolio/flappy.gif)
+<div align="center">![Flappy Bird klon](/assets/images/posts/portfolio/flappy.gif)</div>
 
 Banan fortsätter så länge som man lyckas hålla sig levande. Det finns en poängräknare men skulle vilja implementera en highscore-lista där man kan se alla sina poäng.
 
