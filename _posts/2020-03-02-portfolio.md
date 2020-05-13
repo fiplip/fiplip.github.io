@@ -12,10 +12,6 @@ tags:
 Här följer en kort sammanfattning av några projekt jag har arbetat med, antingen under utbildningen eller på fritiden.
 Jag ska försöka hålla den här listan så koncis som möjligt så att man snabbt kan få en uppfattning om vad jag har gjort.
 
-### Snabblänkar
-
-* [Autonom bil](https://fiplip.github.io/portfolio/portfolio/#autonom-bil)
-
 ## Autonom bil
 ![Nucleo Wagon](/assets/images/posts/portfolio/nucleo_wagon.jpg)
 
