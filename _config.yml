@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Filip Silverplats"
   avatar : "/assets/images/profile_photo.jpg"
-  bio    : "Läser för närvarande till mjukvaruutvecklare inom inbäddade system. Är en teknik-nörd som ständigt vill lära sig mer om programmering!"
+  bio    : "Nyligen tagit examen som mjukvaruutvecklare inom inbäddade system. Är en teknik-nörd som ständigt vill lära sig mer om programmering!"
   location: "Norrköping, Sweden"
   links:
     - label: "Email"

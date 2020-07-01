@@ -3,8 +3,8 @@ permalink: /about/
 title: "Om mig"
 ---
 
-Jag heter Filip Silverplats och studerar just nu till _“Software Developer Embedded Systems/Internet of Things”_ på [Mölk](https://www.molk.com/) i Linköping.
-Det är en yrkeshögskola där utbildningen styrs av arbetsmarknadens krav så att man ska kunna användas direkt av företag efter examen. Just nu är jag på ett företag som heter [Edeva](https://www.edeva.se/se/) och gör mitt avslutande examensarbete.
+Jag heter Filip Silverplats och har nyligen tagit examen som _“Software Developer Embedded Systems/Internet of Things”_ på [Mölk](https://www.molk.com/) i Linköping.
+Det är en yrkeshögskola där utbildningen styrs av arbetsmarknadens krav så att man ska kunna användas direkt av företag efter examen.
 
 ### Om sidan
 
